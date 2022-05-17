@@ -2,7 +2,7 @@ CREATE DATABASE NEGOCIO
 USE NEGOCIO
 
 /*una empresa dedicada al comercio de productos requiere una base de datos relacional en la que tenga acceso a.
-  productos clientes proveedores y ventas ademas reqiere de un programa en c# que le permita el acceso a la informacion sin tener que hacer 
+  productos clientes proveedores y ventas, ademas reqiere de un programa en c# que le permita el acceso a la informacion sin tener que hacer 
   uso de al motor de base de datos 
   contrulla la base de datos y aplique el modelo de capas en dicho prollecto*/
 
